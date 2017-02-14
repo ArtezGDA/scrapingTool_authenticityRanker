@@ -6,4 +6,5 @@ Project for Scraping Tools: copyrights of images
 - Jesse
 - Sam
 - Jody (P)
+- Saskia
 
