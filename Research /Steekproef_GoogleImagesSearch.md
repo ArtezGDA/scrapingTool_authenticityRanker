@@ -154,8 +154,10 @@ Conclusion roughly stated, half of the images of google image contain at least o
 ## Our conclusion of our steekproef makes our rankingsystem
 The ranking-system is based on meta-data. The meta-data of an image differs in value and we researched the most valuable meta-data, if the meta-data says something about the image specifically. The more specific, like the location or the author of the made image, the more 'stars' that image gets. The more stars, the more authentic the image, the closer to the original image.
 
-has metadata + 1 point 	*	(1 star)
-3 points			**	(2 stars)
-7 points 			***	(3 stars)
-15 points			****	(4 stars)
-30+ points			*****	(5 stars)
+|Points|Stars|
+|----------|:-------------:|
+|has metadata + 1 point 	|*	(1 star)|
+|3 points			|**	(2 stars)|
+|7 points 			|***	(3 stars)|
+|15 points			|****	(4 stars)|
+|30+ points			|*****	(5 stars)|
