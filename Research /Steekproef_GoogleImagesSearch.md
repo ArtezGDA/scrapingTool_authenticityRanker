@@ -15,6 +15,9 @@ Our research method is based on a sample study. In order to determin our ranking
 
 For every searchterm we analysed once every five images for its shown meta-data. In order to see the meta-data, we used the extension FxIF 0.4.9.1.
 
+for example :
+![alt tag](http://url/to/sexy00008.png)
+
 ## How much images has metadata?
 |Topic     |Images Checked |Images with data |
 |----------|:-------------:|:----------------:|
@@ -26,11 +29,9 @@ For every searchterm we analysed once every five images for its shown meta-data.
 | baby | 17 | 8 |
 | funny | 10 | 2 |
 | amor | 10 | 3 |
-||||
 | total | 124 | 61 |
 
 Conclusion roughly stated, half of the images of google image contain at least one form of metadata.
-
 
 ## Points metadata
 |Topic     |Points|
@@ -153,6 +154,8 @@ Conclusion roughly stated, half of the images of google image contain at least o
 
 ## Our conclusion of our steekproef makes our rankingsystem
 The ranking-system is based on meta-data. The meta-data of an image differs in value and we researched the most valuable meta-data, if the meta-data says something about the image specifically. The more specific, like the location or the author of the made image, the more 'stars' that image gets. The more stars, the more authentic the image, the closer to the original image.
+
+We calculated the average points to be the middle by adding up the total points of all researched images and deviding it through the amount of images.
 
 |Points|Stars|
 |----------|:-------------:|
