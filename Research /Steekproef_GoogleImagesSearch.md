@@ -75,72 +75,81 @@ Conclusion roughly stated, half of the images of google image contain at least o
 |8.|2 points|
 |9.|8 points|
 
-wallpaper
-2 points
-2 points
-2 points
-2 points
-2 points
-2 points
+|wallpaper|Points|
+|----------|:-------------:|
+|1.|2 points|
+|2.|2 points|
+|3.|2 points|
+|4.|2 points|
+|5.|2 points|
+|6.|2 points|
 
-girl
-12 points
-11 points
-2 points
-3 points
-3 points
+|girl|points|
+|----------|:-------------:|
+|1.|12 points|
+|2.|11 points|
+|3.|2 points|
+|4.|3 points|
+|5.|3 points|
 
-sexy
-2 points
-2 points
-2 points
-8 points
-2 points
-9 points
-2 points
-50 points
-2 points
+|sexy|points|
+|----------|:-------------:|
+|1.|2 points|
+|2.|2 points|
+|3.|2 points|
+|4.|8 points|
+|5.|2 points|
+|6.|9 points|
+|7.|2 points|
+|8.|50 points|
+|9.|2 points|
 
-love
-9 points
-3 points
-8 points
-30 points
-2 points
-2 points
-2 points
+|love|points|
+|----------|:-------------:|
+|1.|9 points|
+|2.|3 points|
+|3.|8 points|
+|4.|30 points|
+|5.|2 points|
+|6.|2 points|
+|7.|2 points|
 
-images
-7 points
-18 points
-8 points
-2 points
-13 points
+|images|points|
+|----------|:-------------:|
+|1.|7 points|
+|2.|18 points|
+|3.|8 points|
+|4.|2 points|
+|5.|13 points|
 
-Facebook
-2 points
-2 points
-7 points
-12 points
+|Facebook|points|
+|----------|:-------------:|
+|1.|2 points|
+|2.|2 points|
+|3.|7 points|
+|4.|12 points|
 
-baby
-40 points
-2 points
-2 points
-16 points
-3 points
-8 points
-2 points
-2 points
+|baby|points|
+|----------|:-------------:|
+|1.|40 points|
+|2.|2 points|
+|3.|2 points|
+|4.|16 points|
+|5.|3 points|
+|6.|8 points|
+|7.|2 points|
+|8.|2 points|
 
-funny
-2 points
-3 points
+|funny|points|
+|----------|:-------------:|
+|1.|2 points|
+|2.|3 points|
 
-amor
-2 points
-2 points
-2 points
+|amor|points|
+|----------|:-------------:|
+|1.|2 points|
+|2.|2 points|
+|3.|2 points|
 
 ## Our conclusion of our steekproef makes our rankingsystem
 The ranking-system is based on meta-data. The meta-data of an image differs in value and we researched the most valuable meta-data, if the meta-data says something about the image specifically. The more specific, like the location or the author of the made image, the more 'stars' that image gets. The more stars, the more authentic the image, the closer to the original image.
