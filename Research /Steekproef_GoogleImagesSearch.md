@@ -34,7 +34,7 @@ Conclusion roughly stated, half of the images of google image contain at least o
 
 ## Points metadata
 |Topic     |Points|
-|----------|:-------------:|
+|----------|-------------|
 |heeft metadata	 |    1 |
 | opmerking		  |       1 |
 | kleurruimte		|       1 |
