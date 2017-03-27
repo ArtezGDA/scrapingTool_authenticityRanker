@@ -1,4 +1,4 @@
-# Research Method_Where is the ranking system based on:
+# Research Method: Where is the ranking system based on:
 
 Our research method is based on a sample study. In order to determin our ranking/star-system, we first researched Google Image Search itself. We used Google Trends and used the most searched-terms on Google Image within our sample. The ranking of the trend is based on 21st of March:
 
