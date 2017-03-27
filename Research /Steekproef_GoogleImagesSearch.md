@@ -26,14 +26,14 @@ For every searchterm we analysed once every five images for its shown meta-data.
 | baby | 17 | 8 |
 | funny | 10 | 2 |
 | amor | 10 | 3 |
-|----------|:-------------:|----------------:|
+||||
 | total | 124 | 61 |
 
 Conclusion roughly stated, half of the images of google image contain at least one form of metadata.
 
 
 ## Points metadata
-|Topic     |points|
+|Topic     |Points|
 |----------|:-------------:|
 |heeft metadata	 |    1 |
 | opmerking		  |       1 |
@@ -63,16 +63,17 @@ Conclusion roughly stated, half of the images of google image contain at least o
 |instructies		   |    5|
 
 ## How much points does the images have:
-hot
-2 points
-5 points
-2 points
-8 points
-8 points
-9 points
-8 points
-2 points
-8 points
+|hot| points|
+|----------|:-------------:|
+|1.|2 points|
+|2. |5 points|
+|3. |2 points|
+|4. |8 points|
+|5.|8 points|
+|6.|9 points|
+|7.|8 points|
+|8.|2 points|
+|9.|8 points|
 
 wallpaper
 2 points
