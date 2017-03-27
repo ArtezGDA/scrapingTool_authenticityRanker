@@ -17,7 +17,7 @@ For every searchterm we analysed once every five images for its shown meta-data.
 
 ## How much images has metadata?
 |Topic     |Images Checked |Images with data |
-|----------|:-------------:|----------------:|
+|----------|:-------------:|:----------------:|
 | wallpaper|  10 | 6 |
 | girl |    10   |   5 |
 | sexy | 8 |    7 |
@@ -34,7 +34,7 @@ Conclusion roughly stated, half of the images of google image contain at least o
 
 ## Points metadata
 |Topic     |Points|
-|----------|-------------|
+|----------|:-------------:|
 |heeft metadata	 |    1 |
 | opmerking		  |       1 |
 | kleurruimte		|       1 |
@@ -63,14 +63,14 @@ Conclusion roughly stated, half of the images of google image contain at least o
 |instructies		   |    5|
 
 ## How much points does the images have:
-|hot| points|
-|----------|:-------------:|
-|1.|2 points|
-|2. |5 points|
-|3. |2 points|
-|4. |8 points|
-|5.|8 points|
-|6.|9 points|
+|hot| points| wallpaper
+|----------|:-------------:||:-------------:|
+|1.|2 points| 1. | 2 points|
+|2. |5 points|2. | 2 points|
+|3. |2 points|3.| 2 points|
+|4. |8 points|4. 2 points |
+|5.|8 points|5. | 2 points|
+|6.|9 points|6.| 2 points|
 |7.|8 points|
 |8.|2 points|
 |9.|8 points|
