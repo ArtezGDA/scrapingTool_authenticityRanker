@@ -158,6 +158,6 @@ The ranking-system is based on meta-data. The meta-data of an image differs in v
 |----------|:-------------:|
 |has metadata + 1 point 	|*	(1 star)|
 |3 points			|**	(2 stars)|
-|7 points 			|***	(3 stars)|
+|7 points (average)			|***	(3 stars)|
 |15 points			|****	(4 stars)|
 |30+ points			|*****	(5 stars)|
