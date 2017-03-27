@@ -13,6 +13,8 @@ This tool enables the user to see the authenticity (realness) of an image. This 
 ## Background Information
 The starting point of our interest in the meta-data of images was because of the documentary by John Berger, “Ways of Seeing” (episode 2, 1972). In this documentary he discusses and questions the realness of images after it has been reproduced, how art is altered by its reproduction. We ourselves questions this with the modern – internet – era in which we live now. How does an digital image have authenticity? The World Wide Web gives us the opportunity to download, screenshot and copy all the images avaliable. We tried to find a solution for this, in our opion, problem. We used the Meta-Data, the information of the image, to pinpoint the research to the originality of an image.
 
+[references of code and theory](Research/References.md)
+
 ‘THE UNIQUENESS OF THE ORIGINAL NOW LIES IN IT BEING THE ORIGINAL OF A REPRODUCTION’ (WAYS OF SEEING, P.21) – John Berger
 
 ## Ranking-System
