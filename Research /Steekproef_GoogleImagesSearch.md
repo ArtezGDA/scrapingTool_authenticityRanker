@@ -64,7 +64,7 @@ Conclusion roughly stated, half of the images of google image contain at least o
 
 ## How much points does the images have:
 |hot| points| wallpaper
-|----------|:-------------:||:-------------:|
+|----------|:-------------:||:-------------:||:-------------:|
 |1.|2 points| 1. | 2 points|
 |2. |5 points|2. | 2 points|
 |3. |2 points|3.| 2 points|
