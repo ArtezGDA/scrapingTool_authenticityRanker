@@ -16,7 +16,7 @@ Our research method is based on a sample study. In order to determin our ranking
 For every searchterm we analysed once every five images for its shown meta-data. In order to see the meta-data, we used the extension FxIF 0.4.9.1.
 
 for example :
-![alt tag](http://url/to/sexy00008.png)
+![alt tag](Research/Steekproef_GoogleImagesSearch/4_Sexy/sexy00008.png)
 
 ## How much images has metadata?
 |Topic     |Images Checked |Images with data |
