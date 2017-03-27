@@ -16,11 +16,7 @@ Our research method is based on a sample study. In order to determin our ranking
 For every searchterm we analysed once every five images for its shown meta-data. In order to see the meta-data, we used the extension FxIF 0.4.9.1.
 
 ## How much images has metadata?
-|  topic |images checked   | images with meta-data  |
-|---|---|---|---|---|
-|  wallpaper |  10 |  5 |  
-|   |   |   |   |   |
-|   |   |   |   |   |hot 9/19
+
 wallpaper 6/10
 girl 5/10
 sexy 7/8
@@ -30,14 +26,19 @@ baby 8/17
 funny 2/10
 amor 3/10
 
-___________+
-61 / 124 = 	1/2
-
 |Topic     |Images Checked |Images with data |
 |----------|:-------------:|----------------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| wallpaper|  10 | 6 |
+| girl |    10   |   5 |
+| sexy | 8 |    7 |
+| love | 10 | 7
+| images | 10 | 4 |
+| baby | 17 | 8 |
+| funny | 10 | 2 |
+| amor | 10 | 3 |
+
+___________+
+61 / 124 = 	1/2
 
 ## Points metadata
 heeft metadata	     1
