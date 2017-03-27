@@ -63,7 +63,7 @@ Conclusion roughly stated, half of the images of google image contain at least o
 |instructies		   |    5|
 
 ## How much points does the images have:
-|hot| points| wallpaper
+|hot| points| wallpaper | points|
 |----------|:-------------:||:-------------:||:-------------:|
 |1.|2 points| 1. | 2 points|
 |2. |5 points|2. | 2 points|
