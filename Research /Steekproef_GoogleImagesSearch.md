@@ -1,4 +1,4 @@
-#Research Method_Where is the ranking system based on:
+# Research Method_Where is the ranking system based on:
 
 Our research method is based on a sample study. In order to determin our ranking/star-system, we first researched Google Image Search itself. We used Google Trends and used the most searched-terms on Google Image within our sample. The ranking of the trend is based on 21st of March:
 
@@ -16,16 +16,6 @@ Our research method is based on a sample study. In order to determin our ranking
 For every searchterm we analysed once every five images for its shown meta-data. In order to see the meta-data, we used the extension FxIF 0.4.9.1.
 
 ## How much images has metadata?
-
-wallpaper 6/10
-girl 5/10
-sexy 7/8
-love 7/10
-images 4/10
-baby 8/17
-funny 2/10
-amor 3/10
-
 |Topic     |Images Checked |Images with data |
 |----------|:-------------:|----------------:|
 | wallpaper|  10 | 6 |
@@ -36,37 +26,41 @@ amor 3/10
 | baby | 17 | 8 |
 | funny | 10 | 2 |
 | amor | 10 | 3 |
+|----------|:-------------:|----------------:|
+| total | 124 | 61 |
 
-___________+
-61 / 124 = 	1/2
+Conclusion roughly stated, half of the images of google image contain at least one form of metadata.
+
 
 ## Points metadata
-heeft metadata	     1
-opmerking		         1
-kleurruimte		       1
-software		         2
-afbeeldingsdatum	   4
-orientatie		       1
-maker			           5 (less then 3 characters is 1 point)
-auteursrecht		     5 (less then 3 characters is 1 point)
-camera fabrikant	   1
-camera model		     1
-focuslengte		       1
-diafragma		         1
-belichtingstijd		   1
-iso			             1
-belichtingsverstoring1
-meetmethode		       1
-belichting		       1
-belichting modus	   1
-wit balans		       1
-geflitst			       1
-stad			           4
-province/staat		   5
-land			           3
-titel			           5
-lens			           1
-instructies		       5
+|Topic     |points|
+|----------|:-------------:|----------------:|
+|heeft metadata	 |    1 |
+| opmerking		  |       1 |
+| kleurruimte		|       1 |
+| software		  |       2 |
+| afbeeldingsdatum	|   4 |
+| orientatie		|       1|
+|maker			        |   5 (less then 3 characters is 1 point)
+| auteursrecht		    | 5 (less then 3 characters is 1 point)
+|camera fabrikant	  | 1|
+|camera model		|     1|
+|focuslengte		  |     1|
+|diafragma		    |     1|
+|belichtingstijd		|   1|
+|iso			      |       1|
+|belichtingsverstoring | 1 |
+| meetmethode		  |     1 |
+| belichting		  |     1 |
+| belichting modus	 |  1 |
+| wit balans		|       1 |
+| geflitst			 |      1 |
+|stad			      |     4 |
+|province/staat		 |  5|
+|land			      |     3 |
+|titel			     |      5|
+|lens			    |       1 |
+|instructies		   |    5|
 
 ## How much points does the images have:
 hot
