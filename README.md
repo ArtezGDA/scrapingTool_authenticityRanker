@@ -33,6 +33,7 @@ Our research method is based on a sample study. In order to determin our ranking
 8.	Baby
 9.	Funny
 10.	Amor
+![alt tag](https://github.com/ArtezGDA/scrapingTool_imageCopyrights/blob/master/Research%20/Steekproef_GoogleImagesSearch/Research%20based%20on.png)
 
 For every searchterm we analysed once every five images for its shown meta-data. In order to see the meta-data, we used the extension FxIF 0.4.9.1. In the file named “Steekproef_GoogleImageSearch.md you can see the results.
 
