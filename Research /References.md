@@ -1,5 +1,4 @@
-# Referenties
-
+# References
 
 ## Info
 [Foto fotoforensics](http://fotoforensics.com/tutorial-meta.php)

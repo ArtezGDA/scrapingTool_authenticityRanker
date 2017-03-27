@@ -37,6 +37,8 @@ Our research method is based on a sample study. In order to determin our ranking
 
 For every searchterm we analysed once every five images for its shown meta-data. In order to see the meta-data, we used the extension FxIF 0.4.9.1. In the file named “Steekproef_GoogleImageSearch.md you can see the results.
 
+[Ranking system explaining](https://github.com/ArtezGDA/scrapingTool_imageCopyrights/blob/master/Research%20/Steekproef_GoogleImagesSearch.md)
+
 ## How to download "The Authenticity Ranker"
 “The Authenticity Ranker” is an extension of Google Image Search and is downloadable via FireFox. Hereby step for step:
 1.	Open your FireFox browser
