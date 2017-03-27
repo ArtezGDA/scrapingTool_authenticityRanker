@@ -16,7 +16,11 @@ Our research method is based on a sample study. In order to determin our ranking
 For every searchterm we analysed once every five images for its shown meta-data. In order to see the meta-data, we used the extension FxIF 0.4.9.1.
 
 ## How much images has metadata?
-hot 9/19
+|  topic |images checked   | images with meta-data  |
+|---|---|---|---|---|
+|  wallpaper |  10 |  5 |  
+|   |   |   |   |   |
+|   |   |   |   |   |hot 9/19
 wallpaper 6/10
 girl 5/10
 sexy 7/8
