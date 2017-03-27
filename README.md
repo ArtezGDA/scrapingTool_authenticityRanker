@@ -50,4 +50,4 @@ For every searchterm we analysed once every five images for its shown meta-data.
 6.	Done! The extension will automatically be shown in your Google Tool Box
 
 ## Prototype
-[Proof of concept]{https://player.vimeo.com/video/210241043}
+[Proof of concept](https://player.vimeo.com/video/210241043)
