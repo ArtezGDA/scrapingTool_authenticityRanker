@@ -1,6 +1,10 @@
-# Referenties
+# References
 
+## Info
+[Foto fotoforensics](http://fotoforensics.com/tutorial-meta.php)
+[Photo Metadata](http://www.photometadata.org/META-Tutorials)
 
+<<<<<<< HEAD
 ## info
 http://fotoforensics.com/tutorial-meta.php
 
@@ -17,12 +21,16 @@ http://www.photometadata.org/META-Tutorials
 
 ## scripts
 https://pypi.python.org/pypi/ExifRead
+=======
+## Scripts
+[Exif Read python script](https://pypi.python.org/pypi/ExifRead)
+>>>>>>> origin/master
 
 ## John Berger, Ways of Seeing , Episode 1 (1972)
-https://www.youtube.com/watch?v=0pDE4VX_9Kk&t=394s
+[Video John Berger](https://www.youtube.com/watch?v=0pDE4VX_9Kk&t=394s)
 
 ## fXif 0.4.9.1.
-https://addons.mozilla.org/nl/firefox/addon/fxif/
+[Download fXif](https://addons.mozilla.org/nl/firefox/addon/fxif/)
 What’s it
 FxIF (Firefox exIF) allows you to view meta information data contained in JPEG images from the convenience of your Firefox (or SeaMonkey or other compatible) browser. Most digital cameras add EXIF data to all images you take and much editing software adds or allows you to add more informations on the picture and you the creator.
 FxIF is written entirely in JavaScript, and as such should be portable to all platforms that Mozilla runs on.
