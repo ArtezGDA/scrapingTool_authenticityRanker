@@ -1,11 +1,5 @@
 # References
 
-## Info
-[Foto fotoforensics](http://fotoforensics.com/tutorial-meta.php)
-[Photo Metadata](http://www.photometadata.org/META-Tutorials)
-
-<<<<<<< HEAD
-## info
 http://fotoforensics.com/tutorial-meta.php
 
 A few examples of available image metadata tools:
@@ -19,12 +13,9 @@ A few examples of available image metadata tools:
 
 http://www.photometadata.org/META-Tutorials
 
-## scripts
-https://pypi.python.org/pypi/ExifRead
-=======
-## Scripts
+
 [Exif Read python script](https://pypi.python.org/pypi/ExifRead)
->>>>>>> origin/master
+
 
 ## John Berger, Ways of Seeing , Episode 1 (1972)
 [Video John Berger](https://www.youtube.com/watch?v=0pDE4VX_9Kk&t=394s)
