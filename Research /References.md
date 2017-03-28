@@ -3,6 +3,16 @@
 
 ## info
 http://fotoforensics.com/tutorial-meta.php
+
+A few examples of available image metadata tools:
+
+    Exiv2 is an open source tool that decodes Exif, IPTC, and XMP metadata. (See Metadata Types for a description of these metadata records.) This command-line utility is provided as an executable for Windows, or source code for Linux and Mac. - http://www.exiv2.org/
+
+    ExifTool by Phil Harvey is one of the most powerful command-line metadata extraction tools available. It supports hundreds of different file and metadata formats -- including many that are manufacturer-specific. The entire tool is well-documented and written in Perl; it works very well under Linux and Mac, but could be difficult for Windows users who do not have Perl installed. - http://www.sno.phy.queensu.ca/~phil/exiftool/
+
+    ExifLib - A Fast Exif Data Extractor for .NET 2.0+ - eads JPEG Exif data without the heavyweight and unnecessary instantiation of GDI+ objects. - https://www.codeproject.com/Articles/36342/ExifLib-A-Fast-Exif-Data-Extractor-for-NET
+
+
 http://www.photometadata.org/META-Tutorials
 
 ## scripts
