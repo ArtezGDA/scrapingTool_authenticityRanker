@@ -32,7 +32,7 @@ Note: In the presence of the Element-properties extension—which retrofitts the
 This also happens on Seamonkey which is why there won’t be added any menu entry.
 
 What can it display?
-Meta data that’s contained in JPEG image files in three forms:
+Meta data that’s contained in JPEG image files in three forms: 
 
     binary EXIF data. This is added by most cameras automatically and contains technical informations on the camera model and manufacturer, date and time the image was taken, aperture and shutter speed used, focal length and much much more.
     IPTC-NAA data in a binary structure (IIM). IPTC-NAA comprises a standardized set of fields focusing on informations as the name of the photographer, caption and title for the image, copyright informations, keywords a.s.o.
